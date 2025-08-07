@@ -3,22 +3,24 @@ An Web Developer and problem solver having experience in various programming lan
 
 Please visit [my personal portfolio](https://mehedi1dev.netlify.app/) website to know more about me.
 
-
-### My Github Stats
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedi1dev&theme=material_palenight)](https://github.com/mehedi1dev) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedi1dev&theme=material_palenight&utcOffset=6)
-
-
-
+ 
 ### My Stacks
 #### Languages: JavaScript | TypeScript 
 
 #### Others: Git | Figma | MongoDB | SQL
 
+
+
+### My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi1dev&theme=material_palenight)
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedi1dev&theme=material_palenight)](https://github.com/mehedi1dev) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedi1dev&theme=material_palenight&utcOffset=6)
+
  <!--  TOP LANGUAGES STATISTICS BY REPO -->
  ### Languages Statistics
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedi1dev&theme=material_palenight)  ![]( http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedi1dev&theme=material_palenight)
- 
+
 
 
 <!--
